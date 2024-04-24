@@ -13,7 +13,7 @@ This is a simple weather application built in Python using Tkinter GUI toolkit. 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/weather-app.git
+git clone https://github.com/MrKaplanP/WeatherPy.git
 ```
 
 2. Install the required dependencies:
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 1. Run the application:
 
 ```bash
-python weather_app.py
+python main.py
 ```
 
 2. Enter the API URL in the provided entry field. Here are some Weather API providers:
